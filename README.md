@@ -2,7 +2,7 @@
 # RaDoTech device app
 By Qayam Damji, Daniel Liu, and Daniel Tam
 
-Simulated Qt app guides RaDoTech device users on how to scan themselves using the Radotech device. 
+A simulated Qt app that guides RaDoTech device users on how to scan themselves using the Radotech device. 
 Algorithms are supposed to process the user's health data and then users can view the health 
 performance of different parts of their body as well as recommendations. 
 
